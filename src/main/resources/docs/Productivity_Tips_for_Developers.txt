@@ -1,0 +1,18 @@
+Productivity Tips for Developers
+
+1. Pomodoro technique
+- 25 min focused work + 5 min break
+- After 4 cycles: 15–30 min long break
+
+2. Daily planning
+- Write 3 most important tasks every morning
+- Use Notion / Todoist for tracking
+
+3. Code habits
+- Write meaningful commit messages
+- Refactor small pieces every day
+- Comment complex logic only — good code explains itself
+
+4. Learning
+- 30 min daily on new topic (Udemy, YouTube, GeeksforGeeks)
+- Teach what you learn — write blog or explain to friend

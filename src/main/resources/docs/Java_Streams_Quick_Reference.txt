@@ -1,0 +1,3 @@
+Java Streams Quick Reference
+
+Filter, Map, Reduce, Grouping examples with Java Streams.

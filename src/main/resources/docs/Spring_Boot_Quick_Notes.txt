@@ -1,0 +1,7 @@
+Spring Boot Quick Notes
+
+- @SpringBootApplication
+- @RestController
+- @Service
+- Constructor Injection
+- application.properties basics

@@ -9,7 +9,8 @@ import org.springframework.cache.annotation.EnableCaching;
 @SpringBootApplication(exclude = {
 		org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.class,
 		org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration.class,
-		org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration.class})
+		org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration.class,
+})
 @EnableCaching
 public class AiserviceApplication {
 
